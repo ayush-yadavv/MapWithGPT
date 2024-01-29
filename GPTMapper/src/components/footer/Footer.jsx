@@ -5,9 +5,8 @@ const Footer = () => {
   return (
     <div className="footer-area">
       <p>
-        Copyright ©2024 All rights reserved | This template is made with{" "}
-        <i class="fa fa-heart-o" aria-hidden="true"></i> by{" "}
-        <span className="teamname"> MicroCoders</span>
+        Made with{" "}
+        <i class="fa fa-heart-o" aria-hidden="true"></i> 
       </p>
     </div>
   );
